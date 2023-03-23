@@ -5,7 +5,7 @@ action_type: text
 description: My short bio will go here!!!
 image_left: true
 images:
-- img/revoir.jpg
+- img/avatar.png
 show_action_link: true
 show_social_links: true
 subtitle: My personal website that is a work in progress :)
