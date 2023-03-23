@@ -133,12 +133,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/blog/"
+    url = "/publication/"
     weight = 3
   [[menu.header]]
     name = "Research"
     title = "Research Portfolio"
-    url = "/project/"
+    url = "/research/"
     weight = 2
   [[menu.header]]
     name = "Talks"
