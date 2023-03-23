@@ -2,14 +2,14 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: My short bio will go here!!!
-image_left: true
+description: I am a mycologist and plant pathologist. My research leverages metagenomic data to study the impact of drought stress on the seed endophytic fungal communities.
+image_left: false
 images:
 - img/avatar.png
 show_action_link: true
 show_social_links: true
-subtitle: My personal website that is a work in progress :)
-text_align_left: false
+subtitle: Mycologist at NC State University
+text_align_left: true
 title: Lindsey Becker, Ph.D.
 type: home
 ---
