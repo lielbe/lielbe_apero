@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "NC State University"
   orgLocal = "Raleigh"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "A modern, beautiful, and configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
