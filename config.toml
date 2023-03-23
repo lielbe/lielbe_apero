@@ -129,12 +129,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/publications/"
+    url = "/blog/"
     weight = 3
   [[menu.header]]
     name = "Research"
     title = "Research Portfolio"
-    url = "/research/"
+    url = "/project/"
     weight = 2
   [[menu.header]]
     name = "Talks"
@@ -191,3 +191,7 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[permalinks]
+  publication = "/blog/:filename/"
+  research = "/project/:filename/"
