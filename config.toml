@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.lielbe.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Lindsey Becker, Ph.D."
