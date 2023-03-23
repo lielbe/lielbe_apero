@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "LindzBecker"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -132,9 +132,9 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Research"
+    title = "Research Portfolio"
+    url = "/research/"
     weight = 3
   [[menu.header]]
     name = "Talks"
