@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "NC State University"
-  orgLocal = "Raleigh"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "Lindsey Becker"
+  orgLocal = ""
+  description = "Personal website and portfolio of Dr. Lindsey Becker."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/mushroom.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -61,11 +61,11 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Atkinson Hyperlegible"
-  customheadingFontFamily = "Petrona"
+  customtextFontFamily = ""
+  customheadingFontFamily = "Commissioner"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
+  textFontFamily = "Helvetica"
   headingFontFamily = "sans-serif"
 
   # Configuration of https://utteranc.es/ for comments
