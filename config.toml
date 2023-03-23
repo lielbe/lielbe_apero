@@ -14,9 +14,9 @@ preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
 
+# Permalinks
 [permalinks]
-  publication = "/blog/:title/"
-  research = "/project/:title/"
+  research = "/project/:filename/"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -195,3 +195,8 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+
+
+
+
