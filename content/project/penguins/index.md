@@ -9,7 +9,7 @@ draft: false
 excerpt: Susceptibility of Calibrachoa cultivars to Thielaviopsis basicola, causal agent of black root rot disease. Here I screened seven elite Calibrachoa cultivars for their response to T. basicola inoculations in greenhouse. 
 featured: true
 layout: single-sidebar
-links:
+#links:
 #- icon: door-open
 #  icon_pack: fas
 #  name: website
