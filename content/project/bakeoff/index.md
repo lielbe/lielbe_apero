@@ -4,7 +4,7 @@ categories:
 - Seed
 - Mycobiome
 - Endophytes
-date: "2023-07-01"
+date: "2023-03-01"
 draft: false
 excerpt: While much work has been done to examine the microbes associated with roots and leaves, less is known about seed associated microbes and their functional roles. As a flowering plant undergoes reproduction, pathogenic and non-pathogenic fungi attempt to colonize the developing seed niche in waves of introductions from other plant organs and the surrounding environment. My PhD research focus on revealing the impact that drought, geography, and genotype have in the wheat seed mycobiome.
 layout: single
