@@ -13,13 +13,18 @@ subtitle: ""
 tags:
 - Calibrachoa
 title: Calibrachoa and Black Rot
+links:
+- icon: door-open
+  icon_pack: fas
+  name: PDMR
+  url: https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume14/abstracts/ot013.asp
 ---
 
 ### Susceptibility of Calibrachoa cultivars to *Thielaviopsis basicola*, causal agent of black root rot disease. Here I screened seven elite Calibrachoa cultivars for their response to *T. basicola* inoculations in greenhouse.
 
 ------------------------------------------------------------------------
 
-Calibrachoa is an annual flowering solanaceous groundcover plant, closely related to Petunia, introduced by breeders in 1990s. Production is currently valued at 45 million dollars annually in the US, and close to 1 million dollars in NC. Grown from cuttings in late fall/winter for sale in spring
+Calibrachoa is an annual flowering solanaceous ground cover plant, closely related to Petunia, introduced by breeders in 1990s. Production is currently valued at 45 million dollars annually in the US, and close to 1 million dollars in NC. Grown from cuttings in late fall/winter for sale in spring
 
 ![Calibrachoa](calibrachoa.png)
 
