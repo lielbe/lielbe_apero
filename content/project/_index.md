@@ -21,7 +21,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Projects
+  title: Research projects that I am involved
 title: A Project Portfolio To Grow
 ---
 
