@@ -17,11 +17,11 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: Lindsey Becker
   description: "Peer Reviewed Research Article = 1  \n 
-                Peer Reviewed Extension Publication = 3 \n"
+                Peer Reviewed Extension Publication = 2 \n"
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
+#  text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: Check out my publications
 thumbnail_left: true
