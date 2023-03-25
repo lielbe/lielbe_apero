@@ -16,7 +16,7 @@ summary: 'Investigating the effect of a soilborne fungus on reproductive fitness
 subtitle: 'Plant Disease Management Reports'
 featured: yes
 links:
-- icon: doi
+- icon: open-access
   icon_pack: ai
   name: Publication
   url: https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume14/abstracts/ot013.asp

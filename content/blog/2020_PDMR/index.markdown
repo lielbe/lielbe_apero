@@ -1,25 +1,25 @@
 ---
-title: "Increased Flower Production of Calibrachoa x hybrida by the Soil Fungus Mortierella elongata"
-author: "Lindsey E. Becker;  Marc A. Cubeta"
-date: '2022-03-09'
-slug: ppd-ontology
+title: "Evaluation of boxwood cultivars for resistance to boxwood blight, 2020."
+author: "Lindsey E. Becker; U. Adhikari; T. Mays; N. Shishkoff; J.A. Crouch; M.A. Cubeta"
+date: '2020-03-04'
+slug: pdmr_boxwood
 categories:
-  - Research
+  - Extension
 tags:
-  - Calibrachoa
-  - Mortierella elongata
-  - Reproduction
+  - Boxwood
+  - Blight
+  - Susceptibility
 doi: ''
-publishDate: '2020-12-10'
-publication: 'Journal of Environmental Horticulture'
+publishDate: '2020-03-04'
+publication: 'Plant Disease Management Reports'
 summary: 'Investigating the effect of a soilborne fungus on reproductive fitness of an ornamental crop'
-subtitle: 'Journal of Environmental Horticulture'
+subtitle: 'Plant Disease Management Reports'
 featured: yes
 links:
-- icon: doi
+- icon: open-access
   icon_pack: ai
   name: Publication
-  url: https://doi.org/10.24266/0738-2898-38.4.114
+  url: https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume15/abstracts/ot008.asp
 ---
 
 <style type="text/css">
@@ -38,10 +38,10 @@ links:
 
 <p class="caption" style="text-align:left;">
 
-<b>Figure.</b> Means of flower production of Calibrachoa cultivars over two year experiments. Flower production assessed weekly at 2 wk to 11 wk post inoculation with *M. elongata*.
+<b>Figure.</b> Boxwood cultivars inoculated with *Calonectria pseudonaviculata*
 
 </p>
 
 ## Abstract
 
-Calibrachoa (*Calibrachoa x hybrida*) is a highly valued solanaceous flowering ornamental plant, characterized by its drought-hardiness, abundant flowering, and diverse flower colors. Recently, the saprobic soil fungus *Mortierella elongata* was isolated as a root endophyte from eastern cottonwood (*Populus deltoides*) and identified as a potential biological amendment for bioenergy and food crops. Two greenhouse experiments were conducted by transplanting rooted cuttings of Calibrachoa cv. 'Kabloom Deep Blue' into a potting media mixture amended with 1 or 2% volume mix ratio of millet seed colonized with one of four isolates of *M. elongata*. Plants were assessed weekly for flower production and 86 days post inoculation for leaf/stem, root, and total dry weight. *M. elongata* strain 624- significantly increased flower production compared to the non-inoculated millet seed controls at 6 and 7 wk post amendment in both experiments. Above and below ground vegetative dry weight for plants grown in potting media mixture amended with *M. elongata* isolates varied across isolates, fungal amendment concentrations, and experiments. Our results suggest that potting media mixture amended with *M. elongata* strain 624- can increase flower production of Calibrachoa during peak marketable periods.
+Boxwood plants worldwide are threatened by a deadly fungal disease known as boxwood blight. Twenty cultivars of boxwood were evaluated for susceptibility to boxwood blight to determine if differences in susceptibility existed. Cultivars of the most commonly used boxwood species (*Buxus sempervirens*) showed high levels of damage due to blight, and cultivars of species such as *B. microphylla*, *B. harlandii* and *B. riparia* were much less susceptible. In particular, the Japanese boxwood cultivar 'Golden Dream' showed no blight symptoms. This information will be used by nursery and landscape industry professionals, gardeners, and extension personnel to make informed recommendations and decisions about which boxwood cultivars to grow and use in the landscape to minimize the risk of boxwood blight.
