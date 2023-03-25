@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a mycologist and plant pathologist. My research leverages metagenomic data to study the impact of drought stress on the seed endophytic fungal communities.
+description: I’m a scientist interested in how microbes are influenced by their surrounding environment and associated with other microbes as well as their host. My research employs microbial ecology and next generation sequencing to improve our understanding of host-microbe interactions.
 image_left: false
 images:
 - img/avatar.png
