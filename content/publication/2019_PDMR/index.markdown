@@ -38,7 +38,7 @@ links:
 
 <p class="caption" style="text-align:left;">
 
-<b>Figure.</b> Means of flower production of Calibrachoa cultivars over two year experiments. Flower production assessed weekly at 2 wk to 11 wk post inoculation with *M. elongata*.
+<b>Figure.</b> Mean disease severity of seven Calibrachoa cultivars after harvest.
 
 </p>
 
