@@ -37,7 +37,7 @@ enableEmoji = true
   description = "Personal website and portfolio of Dr. Lindsey Becker."
   favicon = "/img/mushroom.png"
   logo = "/img/mushroom.png"
-  mainSections = ["publication", "project"]
+  mainSections = ["publication", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
