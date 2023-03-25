@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: Lindsey Becker
 cascade:
   show_author_byline: true
   show_comments: false
@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Give your projects a place to live online.
+#description: Check out research projects I have been involved in
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -22,7 +22,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: Research projects that I am involved
-title: A Project Portfolio To Grow
+title: My Research Portfolio
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

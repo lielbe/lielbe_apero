@@ -136,11 +136,11 @@ enableEmoji = true
     title = "Research Portfolio"
     url = "/project/"
     weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 4
 #  [[menu.header]]
 #    name = "Publications"
 #    title = "Publications"
@@ -163,11 +163,11 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+#  [[menu.footer]]
+#    name = "Contributors"
+#    title = "Contributors"
+#    url = "/contributors/"
+#    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
