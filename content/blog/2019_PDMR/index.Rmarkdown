@@ -1,0 +1,49 @@
+---
+title: "Evaluation of calibrachoa cultivars for black root rot resistance, 2019."
+author: "Lindsey E. Becker;  Marc A. Cubeta"
+date: '2019-03-09'
+slug: pdmr_basicola
+categories:
+  - Extension
+tags:
+  - Calibrachoa
+  - Black Rot
+  - Susceptibility
+doi: ''
+publishDate: '2019-03-09'
+publication: 'Plant Disease Management Reports'
+summary: 'Investigating the effect of a soilborne fungus on reproductive fitness of an ornamental crop'
+subtitle: 'Plant Disease Management Reports'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume14/abstracts/ot013.asp
+---
+
+```{css, eval=TRUE, echo=FALSE}
+.page-main img {
+  box-shadow: 0px 0px 2px 2px rgba( 0, 0, 0, 0.2 );
+  #/* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 1s;
+}
+
+.page-main img:hover {
+  transform: scale(1.8);
+}
+```
+
+```{r, echo=FALSE, out.width="100%", fig.alt="At the top is 'owl:Thing' pointing to 3 superclasses: 'Medical Procedure Encounter or Treatment', 'Condition', and 'Maternal Descriptor.' These, in turn, point to specific subclasses. For example, superclass Condition points to subclasses 'infant or fetus condition' and 'maternal condition'"}
+knitr::include_graphics("featured.jpg")
+```
+
+<p class="caption" style="text-align:left;">
+
+<b>Figure.</b> Means of flower production of Calibrachoa cultivars over two year experiments. Flower production assessed weekly at 2 wk to 11 wk post inoculation with *M. elongata*.
+
+</p>
+
+## Abstract
+
+Calibrachoa (*Calibrachoa x hybrida*) is a highly valued solanaceous flowering ornamental plant, characterized by its drought-hardiness, abundant flowering, and diverse flower colors. Recently, the saprobic soil fungus *Mortierella elongata* was isolated as a root endophyte from eastern cottonwood (*Populus deltoides*) and identified as a potential biological amendment for bioenergy and food crops. Two greenhouse experiments were conducted by transplanting rooted cuttings of Calibrachoa cv. 'Kabloom Deep Blue' into a potting media mixture amended with 1 or 2% volume mix ratio of millet seed colonized with one of four isolates of *M. elongata*. Plants were assessed weekly for flower production and 86 days post inoculation for leaf/stem, root, and total dry weight. *M. elongata* strain 624- significantly increased flower production compared to the non-inoculated millet seed controls at 6 and 7 wk post amendment in both experiments. Above and below ground vegetative dry weight for plants grown in potting media mixture amended with *M. elongata* isolates varied across isolates, fungal amendment concentrations, and experiments. Our results suggest that potting media mixture amended with *M. elongata* strain 624- can increase flower production of Calibrachoa during peak marketable periods.
