@@ -55,19 +55,33 @@ Seed associated fungal communities are generally characterized as robust and rel
 stable compared to their bacterial counterpart. To obtain a better understanding of what factors
 structure the wheat seed mycobiome, I was curious as to whether biotic and environmental
 factors such as host genotype, geography, field season, and drought stress exert measurable
-influence. I explore some of these factors by growing two winter wheat cultivars in
-Official Variety Trials across the state of North Carolina. These trials allow for examination of
-how the wheat seed mycobiome changes in response to regional geography, genotype, and field
-season.
+influence.
 
-In Chapter 4, I exposed three winter wheat cultivars to post-flowering drought in a
-multigenerational study, with the aim of understanding how drought stress influences the wheat
-seed mycobiome, and what legacy effects may occur in the following generation. We discovered
-that the wheat seed mycobiome is largely resilient in the face of geographic variation, genotypic
-pedigree, and drought stress. Overall, this dissertation provides 1) Insight into the composition
-and structure of winter wheat regionally adapted to the southeastern United States and 2)
-Increased our understanding of how drought stress decreases species richness but does not
-perturb the wheat seed mycobiome structure.
+![](map_ovt.png)
+
+I explore some of these factors by growing two winter wheat cultivars in Official Variety Trials across the state of North Carolina. These trials allow for examination of how the wheat seed mycobiome changes in response to regional geography, genotype, and field season.
+
+![](summary_2.png)
+
+------------------------------------------------------------------------
+
+### Drought
+
+Finally, I exposed three winter wheat cultivars to post-flowering drought in a multigenerational study, with the aim of understanding how drought stress influences the wheat seed mycobiome, and what legacy effects may occur in the following generation.
+
+![](methods_3.png)
+
+We discovered that the wheat seed mycobiome is largely resilient in the face of geographic variation, genotypic pedigree, and drought stress.
+
+![](summary_3.png)
+
+------------------------------------------------------------------------
+
+Overall, this research
+
+1.  Provides insight into the composition and structure of winter wheat regionally adapted to the southeastern United States
+
+2.  Increased our understanding of how drought stress decreases species richness but does not perturb the wheat seed mycobiome structure.
 
 				
 
