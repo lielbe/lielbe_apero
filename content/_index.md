@@ -1,8 +1,8 @@
 ---
 action_label: Read More &rarr;
 action_link: /about
-action_type: text
-description: I am a plant pathologist interested in how microbes are influenced by their surrounding environment and associated with other microbes as well as their host. My research employs microbial ecology and next generation sequencing to improve our understanding of host-microbe interactions.
+action_type: text #button or text
+description: I am a plant pathologist with a passion for exploring the intricate relationships between crops and their microbiomes, particularly under biotic or abiotic stress conditions. My ambition is to bridge the gap between basic microbiome research and practical agricultural solutions, aiming to enhance crop resilience through the strategic selection of microbiomes. My research combines microbial ecology, genomics, and plant pathology to improve our understanding of host-microbe interactions. I am currently a Postdoctoral Scholar at [Oregon State University](https://bpp.oregonstate.edu/users/lindsey-becker) working with [Dr. Posy Busby](https://agmicrobiome.org/) and Dr. Chris Mundt.
 image_left: false
 images:
 - img/avatar.png
