@@ -141,10 +141,15 @@ enableEmoji = true
     url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
     weight = 4
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 4
 #  [[menu.header]]
 #    name = "Publications"
 #    title = "Publications"
