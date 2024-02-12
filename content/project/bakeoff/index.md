@@ -83,18 +83,3 @@ Overall, this research
 
 2.  Increased our understanding of how drought stress decreases species richness but does not perturb the wheat seed mycobiome structure.
 
-				
-
-			
-
-		
-
-	
-
-				
-
-			
-
-		
-
-	
