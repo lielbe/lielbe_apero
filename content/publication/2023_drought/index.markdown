@@ -1,0 +1,41 @@
+---
+title: "Impact of multigenerational drought on the wheat seed microbiome (ACCEPTED)"
+author: "Lindsey E. Becker; M.A. Cubeta"
+date: '2024-02-04'
+slug: drought
+categories:
+  - Drought
+tags:
+  - Drought
+  - Mycobiome
+  - Wheat
+doi: ''
+publishDate: '2024-02-04'
+publication: 'Phytobiomes'
+summary: ''
+subtitle: 'Phytobiomes'
+featured: yes
+links:
+- icon: open-access
+  icon_pack: ai
+  name: "PBIOMES-08-23-0083-R.R2"
+  url: 
+---
+
+<style type="text/css">
+.page-main img {
+  box-shadow: 0px 0px 2px 2px rgba( 0, 0, 0, 0.2 );
+  #/* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 1s;
+}
+
+.page-main img:hover {
+  transform: scale(1.8);
+}
+</style>
+
+<img src="featured.jpg" alt="At the top is 'owl:Thing' pointing to 3 superclasses: 'Medical Procedure Encounter or Treatment', 'Condition', and 'Maternal Descriptor.' These, in turn, point to specific subclasses. For example, superclass Condition points to subclasses 'infant or fetus condition' and 'maternal condition'" width="100%" />
+
+## Abstract
+
+Wheat (*Triticum* spp.) is a staple food crop, providing a fifth of the world's protein and caloric needs. Our research examines the impact of multi generation post-flowering drought stress on the wheat seed endophytic fungal community. Understanding how wheat seed fungal communities respond to drought stress over several generations can improve our knowledge of legacy drought stress. In this manuscript, we aim to identify seed associated fungi that play critical roles within the wheat seed under drought stress conditions. We examined the endophytic seed fungal communities of three winter wheat cultivars, Catawba, Shirley, and USG 3640. Moderate drought was imposed on a subset of plants immediately after flowering, with plants relieved from drought stress after one week. Seeds harvested from generation 1 were planted for a second generation of drought experiments. When examining post-flowering drought impact on wheat physiology, drought-exposed plants consistently exhibited lower daily transpiration rates, chlorophyll-a values, and seed yield compared to control plants, indicating that drought implementation was successful. ITS1 metabarcoding revealed that wheat seed fungal community species richness decreased during post-anthesis drought stress across both generations. We also observed that generation accounted for variation in fungal species richness and community structure, independent of drought treatment. The most abundant taxa recovered across all cultivars, treatments, and generations included *Cladosporium*, *Penicillium*, *Alternaria*, and *Epicoccum*. These results support our hypothesis that post-anthesis drought shapes the wheat seed fungal community richness.
